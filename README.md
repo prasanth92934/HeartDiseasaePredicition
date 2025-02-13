@@ -1,1 +1,2 @@
 # HeartDiseasaePredicition
+Heart disease prediction using K-Nearest Neighbors (KNN) and Decision Tree in Machine Learning involves analyzing patient data (such as age, blood pressure, cholesterol levels, etc.) to classify whether they have heart disease. KNN predicts outcomes based on the similarity of new data points to existing cases, while the Decision Tree creates a flowchart-like model for decision-making based on feature splits. These models help in early diagnosis and risk assessment, improving preventive healthcare strategies.
